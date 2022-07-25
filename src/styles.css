@@ -295,7 +295,7 @@ body {
 	list-style: none;
 	position: absolute;
 	right: 0;
-	left: -255px;
+	left: 0;
 }
 
 .filters li {
